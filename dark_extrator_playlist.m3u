@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,Dark Extrator Playlist
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="live",[24h] Scooby-Doo! Mistério S/A
+http://dns.clientetv.net/live/alcino8666/86667032ncl/1242384.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pHpgvAC1FwSIC2THfuCO6mAoGa2.jpg" group-title="live",[24h] X-Men
+http://dns.clientetv.net/live/alcino8666/86667032ncl/1242382.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o416VMI1mVzO58hq4z5x1T1qNt7.jpg" group-title="live",[24h] As Aventuras de Mickey e Donald
+http://dns.clientetv.net/live/alcino8666/86667032ncl/1242198.m3u8
+
